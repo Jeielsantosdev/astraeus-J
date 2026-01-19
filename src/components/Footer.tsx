@@ -129,7 +129,7 @@ export function Footer() {
         <div className="pt-8 border-t border-secondary-foreground/10">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-secondary-foreground/60">
-              © {new Date().getFullYear()} ASTRAEUS DEV. Todos os direitos reservados.
+              © {new Date().getFullYear()} ASTREUS DEV. Todos os direitos reservados.
             </p>
             <div className="flex gap-6 text-sm text-secondary-foreground/60">
               <a href="#" className="hover:text-primary transition-colors">
