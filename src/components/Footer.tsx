@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Github, Linkedin, Instagram, Twitter } from "lucide-react";
-import logo from "@/assets/logo-astraeus.jpeg";
+import logo from "@/assets/ogo-astraeus.png";
 
 const socialLinks = [
   { icon: Github, href: "https://github.com/orgs/Astreus-J/", label: "GitHub" },
@@ -48,9 +48,9 @@ export function Footer() {
             transition={{ duration: 0.5 }}
           >
             <div className="flex items-center gap-3 mb-6">
-              <img src={logo} alt="ASTRAEUS DEV" className="h-10 w-10 rounded-lg object-cover" />
+              <img src={logo} alt="ASTREUS DEV" className="h-10 w-10 rounded-lg object-cover" />
               <span className="font-display font-bold text-xl text-secondary-foreground">
-                ASTRAEUS <span className="text-primary">DEV</span>
+                ASTREUS <span className="text-primary">DEV</span>
               </span>
             </div>
             <p className="text-secondary-foreground/70 mb-6">

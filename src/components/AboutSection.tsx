@@ -49,7 +49,7 @@ export function AboutSection() {
               <span className="gradient-text">desenvolvimento de software</span>
             </h2>
             <p className="text-lg text-muted-foreground mb-6">
-              A <strong className="text-foreground">ASTRAEUS DEV</strong> é uma softhouse especializada em 
+              A <strong className="text-foreground">ASTREUS DEV</strong> é uma softhouse especializada em 
               criar soluções digitais sob medida. Combinamos expertise técnica com visão estratégica 
               para transformar suas ideias em produtos digitais de alto impacto.
             </p>

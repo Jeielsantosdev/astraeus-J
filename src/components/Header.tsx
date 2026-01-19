@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import logo from "@/assets/logo-astraeus.jpeg";
+import logo from "@/assets/ogo-astraeus.png";
 
 const navLinks = [
   { name: "Início", href: "#hero" },
@@ -51,9 +51,9 @@ export function Header() {
             }}
             className="flex items-center gap-3"
           >
-            <img src={logo} alt="ASTRAEUS DEV" className="h-10 w-10 rounded-lg object-cover" />
+            <img src={logo} alt=" DEV" className="h-10 w-10 rounded-lg object-cover" />
             <span className="font-display font-bold text-xl text-secondary">
-              ASTRAEUS <span className="text-primary">DEV</span>
+              ASTREUS <span className="text-primary">DEV</span>
             </span>
           </a>
 

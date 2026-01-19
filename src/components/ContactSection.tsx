@@ -127,7 +127,7 @@ export function ContactSection() {
         phone: formData.phone || 'Não informado',
         subject: formData.subject,
         message: formData.message,
-        to_name: 'Astraeus',
+        to_name: 'Astreus',
       };
 
       // Envia email
