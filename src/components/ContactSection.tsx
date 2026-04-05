@@ -20,9 +20,9 @@ import {
 
 // Configurações do EmailJS
 const EMAILJS_CONFIG = {
-  SERVICE_ID: 'service_m9p1a69',
-  TEMPLATE_ID: 'template_96suuwb',
-  PUBLIC_KEY: 'EQlDtTR4LjkrMpVkV',
+  SERVICE_ID: 'service_0budz4c',
+  TEMPLATE_ID: 'template_ppl2ogf',
+  PUBLIC_KEY: 'LWYAogkkxbuaPIF2O',
 };
 
 // Prevenção de spam - limita envios
